@@ -10,3 +10,6 @@ Segmented mall customers into distinct groups based on Age, Annual Income, and S
 
 Clustered Iris flower samples into groups using hierarchical clustering and dendrogram visualization. Identified 3 natural clusters corresponding to the species (Setosa, Versicolor, Virginica), with Setosa being clearly distinct while Versicolor and Virginica showed partial overlap.
 
+<img src="Screenshots/hierarchial clustering.png" alt="Hierarchial Clustering Screenshot" width="600"/>
+---
+
