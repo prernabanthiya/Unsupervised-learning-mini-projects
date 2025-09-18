@@ -6,3 +6,7 @@ Segmented mall customers into distinct groups based on Age, Annual Income, and S
 <img src="Screenshots/customer_segmentation.png" alt="Customer Segmentation Screenshot" width="600"/>
 
 ---
+### 2️⃣ Hierarchical Clustering – Iris Dataset
+
+Clustered Iris flower samples into groups using hierarchical clustering and dendrogram visualization. Identified 3 natural clusters corresponding to the species (Setosa, Versicolor, Virginica), with Setosa being clearly distinct while Versicolor and Virginica showed partial overlap.
+
