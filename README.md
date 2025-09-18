@@ -19,5 +19,5 @@ Clustered Iris flower samples into groups using hierarchical clustering and dend
 
 Applied DBSCAN to cluster countries based on socio-economic indicators (like GDP, population, and life expectancy). Detected dense groups of similar countries while identifying outliers, helping to spot unusual or unique patterns across nations.
 
-<img src="Screenshots/dbscan_country_segmentation.png" alt="DBSCAN Country Segmentation Screenshot" width="600"/>
+<img src="Screenshots/dbscan.png" alt="DBSCAN Country Segmentation Screenshot" width="600"/>
 
